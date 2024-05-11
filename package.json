@@ -1,0 +1,14 @@
+{
+  "name": "tinylang",
+  "version": "0.1.0",
+  "description": "Converts JS to TinyLang, or vice-versa",
+  "main": "tinylang.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.1"
+  }
+}
